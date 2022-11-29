@@ -1,0 +1,1 @@
+sudo apt update -y && apt upgrade -y && apt install git curl nano sudo htop -y && sudo apt install golang-go -y && sudo apt install ufw -y && sudo ufw allow 2200 && sudo ufw allow 80 && sudo ufw allow 443 &&
